@@ -3,11 +3,9 @@
 **Data Science Student · AI/ML Engineer**  
 Ho Chi Minh City, Vietnam
 
----
-
-## About
-
-I build AI systems end-to-end — from model development to production deployment on cloud infrastructure. Currently a Data Science student, focusing on LLM applications and MLOps pipelines.
+- 🧠 Deep Learning & LLM applications
+- ⚙️ MLOps pipelines & AI system engineering  
+- ☁️ Cloud infrastructure deployment on AWS
 
 ---
 

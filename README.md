@@ -28,15 +28,6 @@ I build AI systems end-to-end — from model development to production deploymen
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dryi37&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dryi37&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/khôi-nguyễn-trần-tuấn-1b88b1298)
